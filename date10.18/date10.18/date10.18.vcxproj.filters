@@ -18,5 +18,11 @@
     <ClCompile Include="jicheng.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="date10.22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="date10.23.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
